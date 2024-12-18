@@ -1,4 +1,4 @@
-project = "Fastapi Injectable"
+project = "FastAPI Injectable"
 author = "Jasper Sui"
 module = "fastapi_injectable"
 copyright = "2024, Jasper Sui"  # noqa: A001
